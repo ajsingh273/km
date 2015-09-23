@@ -1,7 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900,700,300);
 
 body {
 font-family: 'Lato', sans-serif;
+
 }
 
 .btn {
@@ -44,3 +45,15 @@ hgroup h2.lead { font: normal normal 1.125em 'Lato', sans-serif; color: #2a3644;
 .search-result span.plus a:hover { background-color: #414141; }
 .search-result span.plus a i { color: #fff !important; }
 .search-result span.border { display: block; width: 97%; margin: 0 15px; border-bottom: 1px dotted #ccc; }
+
+h6 { 
+font-weight:900;font-size:60px; margin-top:85px;margin-bottom:60px;
+}
+
+h7 {
+font-size:14px; color: #4cae4c;
+}
+
+h8 {
+line-height:2.5em;font-size:18px;
+}
