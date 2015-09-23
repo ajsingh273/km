@@ -37,6 +37,7 @@ body > .container {
     height: 70px;
     padding-top: 0;
     background-color: #32404e;
+    border-radius: 0;
 }
 
 .footer {
