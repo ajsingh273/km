@@ -34,10 +34,15 @@ body > .container {
 
 .navbar {
     line-height: 70px;
-    height: 70px;
+    height: 75px;
     padding-top: 0;
     background-color: #32404e;
     border-radius: 0;
+    border-bottom: 4px solid #4cae4c;
+}
+
+.navbar > .container {
+width:98%;
 }
 
 .footer {
