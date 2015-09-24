@@ -73,7 +73,7 @@ code {
 }
 
 h1 {
-font-size: 50px;
+font-size:45px;
 font-weight:700;
 color:#32404e;
 }
@@ -84,7 +84,8 @@ color:#4cae4c;font-size:20px;font-weight:700;
 
 .page-header {
 border:0;
-margin-bottom:50px;
+margin-bottom:30px;
+margin-top:0px;
 }
 
 
